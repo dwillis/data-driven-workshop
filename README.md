@@ -1,6 +1,6 @@
 # Data Driven Workshop
 ## Links and materials
-#### Derek Willis
+#### Derek Willis and Tim Marema
 #### [http://bit.ly/wvudata](http://bit.ly/wvudata)
 
 ### Demographics
