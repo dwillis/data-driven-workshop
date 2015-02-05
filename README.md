@@ -17,7 +17,7 @@
 * [Broadcast TV campaign ads](https://stations.fcc.gov/) (Hands-on exercise)
 * [Campaign spending](http://www.fec.gov/data/CandidateDisbursement.do?format=html&election_yr=2014)
 * [WV results](https://github.com/openelections/openelections-results-wv/tree/master/raw) | [PA results](https://github.com/openelections/openelections-results-pa/tree/master/raw)
-* [SEC Edgar](http://www.sec.gov/edgar.shtml) (Hands-on exercise)
+* [SEC Edgar](http://www.sec.gov/edgar.shtml)
 * [Census of Governments](http://www.census.gov/govs/)
 
 ### Society
