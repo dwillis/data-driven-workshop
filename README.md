@@ -7,6 +7,7 @@
 
 * [Census](http://www.census.gov/)
 * [Census Reporter](http://censusreporter.org/)
+* [Understanding Households & Relationships](https://source.opennews.org/en-US/learning/understanding-households-and-relationships-census-/)
 * [Local Area Unemployment Statistics](http://www.bls.gov/lau/)
 * [Atlas of Rural and Small-Town America](http://www.ers.usda.gov/data-products/atlas-of-rural-and-small-town-america.aspx)
 * [Workforce Demographics](http://www.bls.gov/bls/demographics.htm)
