@@ -33,6 +33,7 @@
 
 * [State Data Center](http://pasdc.hbg.psu.edu/)
 
-### Tools
+### Resources
 
+* [Developing a Data State of Mind](dwillis.github.io/interviewing-data/3825.pdf)
 * [Tabula](http://tabula.technology/)
