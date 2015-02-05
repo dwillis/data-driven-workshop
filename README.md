@@ -14,6 +14,7 @@
 * [Census of Governments](http://www.census.gov/govs/)
 * [Voter registration](http://www.sos.wv.gov/elections/history/Pages/Voter_Registration.aspx) | [Mon County](https://www.strongspace.com/shared/tgwj67fw10)
 * [Broadcast TV campaign ads](https://stations.fcc.gov/) (Hands-on exercise)
+* [Campaign spending](http://www.fec.gov/data/CandidateDisbursement.do?format=html&election_yr=2014)
 * [WV results](https://github.com/openelections/openelections-results-wv/tree/master/raw) | [PA results](https://github.com/openelections/openelections-results-pa/tree/master/raw)
 * [SEC Edgar](http://www.sec.gov/edgar.shtml) (Hands-on exercise)
 
@@ -33,7 +34,8 @@
 
 * [State Data Center](http://pasdc.hbg.psu.edu/)
 
-### Resources
+### Resources/Ideas
 
 * [Developing a Data State of Mind](dwillis.github.io/interviewing-data/3825.pdf)
 * [Tabula](http://tabula.technology/)
+* [The Bomb Database](http://www.bostonglobe.com/news/nation/2012/07/29/century-data-and-destruction-chronicled-air-force-officer/5m2HK2CP9UcwwJzMhtdQOO/story.html)
