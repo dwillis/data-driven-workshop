@@ -1,6 +1,7 @@
 # Data Driven Workshop
-## Links and materials for WVU Data Workshop
+## Links and materials
 #### Derek Willis
+#### [http://bit.ly/wvudata](http://bit.ly/wvudata)
 
 ### Demographics
 
