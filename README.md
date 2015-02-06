@@ -15,7 +15,7 @@
 ### Government and Elections
 
 * [WV Voter registration](http://www.sos.wv.gov/elections/history/Pages/Voter_Registration.aspx) | [PA Voter registration](http://www.dos.pa.gov/VotingElections/OtherServicesEvents/VotingElectionStatistics/Pages/default.aspx)
-* [WV County Voter Registration Totals](https://www.strongspace.com/shared/mp30n1thck) (Mapping exercise)
+* [WV County Voter Registration Totals](https://www.strongspace.com/shared/rmv3mdgfem) (Mapping exercise)
 * [Broadcast TV campaign ads](https://stations.fcc.gov/) (Hands-on exercise)
 * [Campaign spending](http://www.fec.gov/data/CandidateDisbursement.do?format=html&election_yr=2014)
 * [WV results](https://github.com/openelections/openelections-results-wv/tree/master/raw) | [PA results](https://github.com/openelections/openelections-results-pa/tree/master/raw)
